@@ -1077,3 +1077,8 @@ Use your browser(CTL-F) to search by country code.
 #### Other Interesting
 - [iknowwhatyoudownload](https://iknowwhatyoudownload.com/en/)
 - [Amazon Wish List Search](www.amazon.com/gp/registry/search)
+
+#### Networking
+- [Port Checker](https://www.portcheckers.com/)
+- [Port Forwarding Test](https://www.portforwarding.org/)
+
