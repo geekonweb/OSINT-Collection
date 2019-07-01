@@ -38,6 +38,7 @@ Use your browser(CTL-F) to search by country code.
   - [Expert Search](#expert-search)
   - [E-mail Search / Check](#e-mail-search--check)
   - [Scams](#scams)
+  - [Network Tools](#networking)
 - [Classifieds](#classifieds)
   - [Phone Numbers](#phone-numbers)
   - [Username Check](#username-check)
