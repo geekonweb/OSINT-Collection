@@ -1051,6 +1051,7 @@ Use your browser(CTL-F) to search by country code.
 - [container-tracking (Cargo)](http://container-tracking.org)
 - [Panjiva (Cargo)](https://panjiva.com/search)
 - [Import Genius (Cargo)](http://importgenius.com/)
+- [Speed Post Tracking] (https://github.com/geekonweb/OSINT-Collection)
 
 ### Memes
 - [Know Your Meme](https://knowyourmeme.com)
