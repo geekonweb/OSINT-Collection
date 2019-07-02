@@ -1051,7 +1051,7 @@ Use your browser(CTL-F) to search by country code.
 - [container-tracking (Cargo)](http://container-tracking.org)
 - [Panjiva (Cargo)](https://panjiva.com/search)
 - [Import Genius (Cargo)](http://importgenius.com/)
-- [Import Genius (Cargo)](https://www.speedposttrack.in/)
+- [Speed Post Tracking](https://www.speedposttrack.in/)
 
 ### Memes
 - [Know Your Meme](https://knowyourmeme.com)
