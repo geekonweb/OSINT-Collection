@@ -391,6 +391,8 @@ Use your browser(CTL-F) to search by country code.
 - [searchface.ru](http://searchface.ru/)
 
 #### Translation
+- [English to Tagalog](https://www.englishtotagalog.org/)
+- [English to Hindi](https://englishtohindi.co.in/)
 - [2lingual](http://www.2lingual.com/)
 - [Apertium](https://www.apertium.org/)
 - [Babelfish](https://www.babelfish.com/)
