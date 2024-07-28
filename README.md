@@ -1067,6 +1067,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [Panjiva (Cargo)](https://panjiva.com/search)
 - [Import Genius (Cargo)](http://importgenius.com/)
 - [Speed Post Tracking)](http://www.speedposttrack.in)
+- [kindersley Tracking)](https://www.trackingy.com/kindersley-tracking)
 
 ### Memes
 - [Know Your Meme](https://knowyourmeme.com)
@@ -1092,3 +1093,10 @@ This is a maintained collection of free actionable resources for those conductin
 
 ### Darkweb
 - [Dark Search](https://darksearch.io/)
+
+### Currency
+- [1 Million Dollars in Rupee](https://www.fxrateslive.com/1-million-dollars-in-rupees)
+- [1 Million WON to USD](https://www.fxrateslive.com/1-million-won-to-usd)
+- [1 Million USD in Taka](https://www.fxrateslive.com/USD/BDT/1000000)
+- [Half Million Dollars in Rupee](https://www.fxrateslive.com/half-million-dollars-in-rupees)
+
