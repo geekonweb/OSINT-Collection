@@ -1100,3 +1100,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [1 Million USD in Taka](https://www.fxrateslive.com/USD/BDT/1000000)
 - [Half Million Dollars in Rupee](https://www.fxrateslive.com/half-million-dollars-in-rupees)
 
+### Online Tools
+- [1 Minecraft Status Checker](https://www.portcheckers.com/minecraft-server-status-checker)
+- [1 Port Checker](https://www.portcheckers.com/)
+- [1 HTTP Header Checker](https://www.portcheckers.com/http-header-check)
