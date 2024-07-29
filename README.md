@@ -1101,6 +1101,6 @@ This is a maintained collection of free actionable resources for those conductin
 - [Half Million Dollars in Rupee](https://www.fxrateslive.com/half-million-dollars-in-rupees)
 
 ### Online Tools
-- [1 Minecraft Status Checker](https://www.portcheckers.com/minecraft-server-status-checker)
-- [1 Port Checker](https://www.portcheckers.com/)
-- [1 HTTP Header Checker](https://www.portcheckers.com/http-header-check)
+- [Minecraft Status Checker](https://www.portcheckers.com/minecraft-server-status-checker)
+- [Port Checker](https://www.portcheckers.com/)
+- [HTTP Header Checker](https://www.portcheckers.com/http-header-check)
