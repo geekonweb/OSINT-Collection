@@ -1105,3 +1105,6 @@ This is a maintained collection of free actionable resources for those conductin
 - [Minecraft Status Checker](https://www.portcheckers.com/minecraft-server-status-checker)
 - [Port Checker](https://www.portcheckers.com/)
 - [HTTP Header Checker](https://www.portcheckers.com/http-header-check)
+- [URL slug generator](https://www.a21l.com/slug-generator)
+- [JWT Decoder](https://www.portcheckers.com/jwt-decode)
+- [Resize Image in KB](https://www.a21l.com/resize-image-in-kb)
