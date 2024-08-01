@@ -1066,8 +1066,8 @@ This is a maintained collection of free actionable resources for those conductin
 - [container-tracking (Cargo)](http://container-tracking.org)
 - [Panjiva (Cargo)](https://panjiva.com/search)
 - [Import Genius (Cargo)](http://importgenius.com/)
-- [Speed Post Tracking)](http://www.speedposttrack.in)
-- [kindersley Tracking)](https://www.trackingy.com/kindersley-tracking)
+- [Speed Post Tracking](http://www.speedposttrack.in)
+- [kindersley Tracking](https://www.trackingy.com/kindersley-tracking)
 
 ### Memes
 - [Know Your Meme](https://knowyourmeme.com)
