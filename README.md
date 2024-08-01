@@ -1108,3 +1108,5 @@ This is a maintained collection of free actionable resources for those conductin
 - [URL slug generator](https://www.a21l.com/slug-generator)
 - [JWT Decoder](https://www.portcheckers.com/jwt-decode)
 - [Resize Image in KB](https://www.a21l.com/resize-image-in-kb)
+- [Hindi View Typing](https://www.hindityping.co.in/hindi-voice-typing)
+- [Tamil Voice Typing](https://www.hindityping.co.in/tamil-voice-typing) 
