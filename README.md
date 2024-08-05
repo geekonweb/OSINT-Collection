@@ -1110,3 +1110,10 @@ This is a maintained collection of free actionable resources for those conductin
 - [Resize Image in KB](https://www.a21l.com/resize-image-in-kb)
 - [Hindi Voice Typing](https://www.hindityping.co.in/hindi-voice-typing)
 - [Tamil Voice Typing](https://www.hindityping.co.in/tamil-voice-typing) 
+
+### Quotes and Motivation
+- [Inspirational Quotes](https://www.facebook.com/positive.inspirational.quotes.4u)
+- [Motivational Quotes](https://www.facebook.com/groups/wise.words.and.quotes)
+- [Motivational Quotes Images](https://play.google.com/store/apps/details?id=inspirational.quotes.app.daily)
+- [Good Morning Quotes](https://play.google.com/store/apps/details?id=com.goodmorning.images4all)
+- [Hindi Good Morning Quotes](https://play.google.com/store/apps/details?id=goodmorning.images.in.hindi.app)
